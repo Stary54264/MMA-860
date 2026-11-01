@@ -1,0 +1,13 @@
+# Data (too large for GitHub; 4.9 GB combined TLC trip records)
+*.csv
+*.parquet
+data/
+
+# OS / editor
+.DS_Store
+.claude/settings.local.json
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
